@@ -3,8 +3,12 @@ languageCode = "ja"
 title = "Romancing.jp"
 
 disqusShortname = "romancing-jp"
+staticDir = "static"
 
 [params.author]
+thumbnail = "images/icon.png"
+name = "Miyabi"
+description = "<p>ぼちぼち備忘録を残す系Noder</p><p>最近の興味はコンパイラ言語</p>"
 twitter = "https://twitter.com/miyabi_sun"
 github = "https://github.com/miyabisun"
 
