@@ -1,7 +1,8 @@
 ---
 title: 【PHP】エラーログを閲覧
-date: 2013-06-19 10:25:36
-tags: PHP
+date: 2013-06-19T10:25:36+09:00
+tags:
+    - PHP
 id: php-error-log
 ---
 

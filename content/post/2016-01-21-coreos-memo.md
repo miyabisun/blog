@@ -1,6 +1,6 @@
 ---
 title: CoreOSのリブートを止める
-date: 2016-01-21 11:16:58
+date: 2016-01-21T11:16:58+09:00
 tags:
   - CoreOS
   - systemd

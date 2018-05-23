@@ -1,7 +1,8 @@
 ---
 title: 【日記】ハッカーと画家を読んで
-date: 2016-07-30 23:21:51
-tags: Diary
+date: 2016-07-30T23:21:51+09:00
+tags:
+    - Diary
 id: diary
 ---
 

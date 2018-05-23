@@ -1,6 +1,6 @@
 ---
 title: リターンメール判別
-date: 2012-11-16 17:51:57
+date: 2012-11-16T17:51:57+09:00
 tags:
   - etc
 id: return-mail

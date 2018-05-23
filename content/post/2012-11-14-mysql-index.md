@@ -1,7 +1,8 @@
 ---
 title: 【MySQL】インデックスとは
-date: 2012-11-14 15:54:29
-tags: MySQL
+date: 2012-11-14T15:54:29+09:00
+tags:
+    - MySQL
 id: mysql-index
 ---
 

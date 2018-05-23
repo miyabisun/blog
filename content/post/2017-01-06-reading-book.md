@@ -1,7 +1,8 @@
 ---
 title: 【日記】納品をなくせばうまくいくを読んで
-date: 2017-01-06 21:41:48
-tags: Diary
+date: 2017-01-06T21:41:48+09:00
+tags:
+    - Diary
 id: reading-book-1
 ---
 

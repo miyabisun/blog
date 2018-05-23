@@ -1,7 +1,8 @@
 ---
 title: 【MySQL】再帰問い合わせ
-date: 2012-10-18 14:26:26
-tags: MySQL
+date: 2012-10-18T14:26:26+09:00
+tags:
+    - MySQL
 id: recursive-mysql
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "【PHP】PHP: The Right Way"
-date: 2013-07-05 14:54:47
-tags: PHP
+date: 2013-07-05T14:54:47+09:00
+tags:
+    - PHP
 id: php-the-right-way
 ---
 

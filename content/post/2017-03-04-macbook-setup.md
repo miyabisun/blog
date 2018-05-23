@@ -1,8 +1,8 @@
 ---
 title: Macbook Pro を再セットアップ
-date: 2017-03-04 14:15:11
+date: 2017-03-04T14:15:11+09:00
 tags:
-  - Diary
+    - Diary
 id: macbook-setup
 ---
 

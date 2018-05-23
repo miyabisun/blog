@@ -1,6 +1,6 @@
 ---
 title: 【ZendFramework】インサートしたIDを取得
-date: 2013-06-10 11:03:57
+date: 2013-06-10T11:03:57+09:00
 tags:
   - PHP
   - MySQL

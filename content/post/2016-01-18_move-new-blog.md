@@ -1,7 +1,8 @@
 ---
 title: ブログ移行と思い出
-date: 2016-01-18 22:00:00
-tags: Diary
+date: 2016-01-18T22:00:00+09:00
+tags:
+    - Diary
 id: move-new-blog
 ---
 

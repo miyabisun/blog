@@ -1,7 +1,8 @@
 ---
 title: ファイル名を指定して実行を使いこなす
-date: 2014-08-24 23:50:10
-tags: Windows
+date: 2014-08-24T23:50:10+09:00
+tags:
+    - Windows
 id: select-the-file-and-then-execute
 ---
 

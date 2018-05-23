@@ -1,6 +1,6 @@
 ---
 title: 【SSH】接続元のIPアドレスを取得する
-date: 2016-02-04 14:14:46
+date: 2016-02-04T14:14:46+09:00
 tags:
   - SSH
 id: ssh-get-ipaddr

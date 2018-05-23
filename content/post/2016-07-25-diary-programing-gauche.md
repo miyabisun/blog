@@ -1,7 +1,8 @@
 ---
 title: 【日記】Gauche の勉強の進捗＋その他
-date: 2016-07-25 22:27:40
-tags: Diary
+date: 2016-07-25T22:27:40+09:00
+tags:
+    - Diary
 id: diary
 ---
 

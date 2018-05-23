@@ -1,6 +1,6 @@
 ---
 title: vorbis-encoder-jsをリリース
-date: 2017-07-12 09:56:54
+date: 2017-07-12T09:56:54+09:00
 tags:
   - Ogg
   - JavaScript

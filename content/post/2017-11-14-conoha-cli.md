@@ -1,6 +1,6 @@
 ---
 title: ConoHa CLI 開発日誌 vol.1
-date: 2017-11-14 21:53:40
+date: 2017-11-14T21:53:40+09:00
 tags:
     - Golang
     - ConoHa

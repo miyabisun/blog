@@ -1,6 +1,6 @@
 ---
 title: 【JavaScript】即時実行関数とは
-date: 2013-03-12 21:14:46
+date: 2013-03-12T21:14:46+09:00
 tags:
   - JavaScript
 id: javascript-tips

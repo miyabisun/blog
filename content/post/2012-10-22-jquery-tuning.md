@@ -1,6 +1,6 @@
 ---
 title: 【jQuery】セレクターのチューニング
-date: 2012-10-22 14:43:33
+date: 2012-10-22T14:43:33+09:00
 tags:
   - JavaScript
 id: jquery-tuning

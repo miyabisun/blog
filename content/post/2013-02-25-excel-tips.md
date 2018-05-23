@@ -1,7 +1,8 @@
 ---
 title: 【Excel】セルの値に従って別シートのセルを読み込む
-date: 2013-02-25 21:19:53
-tags: Excel
+date: 2013-02-25T21:19:53+09:00
+tags:
+    - Excel
 id: excel-tips
 ---
 
