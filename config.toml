@@ -1,3 +1,13 @@
 baseURL = "http://www.romancing.jp/"
 languageCode = "ja"
 title = "Romancing.jp"
+
+disqusShortname = "romancing-jp"
+
+[params.author]
+twitter = "https://twitter.com/miyabi_sun"
+github = "https://github.com/miyabisun"
+
+[outputs]
+page = [ "HTML", "AMP" ] # if you want AMP enable.
+
