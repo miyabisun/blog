@@ -123,7 +123,13 @@ hello nim
 
 ## ToDo
 
-## 参考サイト
+動機がリンクを整理したかっただけで、まだまだ先は長いので引き続き調査＆動作検証を行っていく。
+
+- Windows環境での動作チェック
+- Mac用のコンパイラの導入
+- 今作っているNim用のコマンドラインツールでの動作検証
+
+### 参考サイト
 
 - Linux to MacOS
     - [Nim > forum index > Cross compile to OS X](https://forum.nim-lang.org/t/2652)
