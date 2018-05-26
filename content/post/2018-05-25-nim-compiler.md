@@ -1,6 +1,9 @@
 ---
 title: Nim Compiler vol.1
 date: 2018-05-25T09:26:10+09:00
+tags:
+    - Nim
+    - Docker
 draft: false
 ---
 
