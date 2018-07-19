@@ -3,8 +3,7 @@ title: "Clojure Setup (Spacemacs編)"
 date: 2018-07-17T15:52:48+09:00
 tags:
     - Clojure
-    - Emacs
-    - Vim
+    - Spacemacs
 ---
 
 ## 概要
@@ -12,6 +11,8 @@ tags:
 Clojureを扱っている企業へ就職した。  
 元々Vimを使っていたが、ClojureはLISP系ということでEMACSが職場内では一番多く使われているようだ。  
 (というかメインVim使いは1人も居ない)
+
+<!--more-->
 
 しかしデフォルトのEmacsはVimと同じで中々使い辛いらしくプラグインやらをあれこれ導入したりと大変とのことで。  
 [Spacemacs](https://github.com/syl20bnr/spacemacs)というEmacsのディストリビューション(?)が存在し、  
@@ -118,6 +119,14 @@ $ emacs -nw
 開いたファイルはbuffer切り替えで変更していくようだ。  
 なんかSublimeTextのCtrl+Pを思い出す動作。
 
+## コピペ
+
+さて、クリップボードに保存したいから`"*y`っと、保存出来てない！！  
+ダブルクリックからのCommand+Cも効かない詰んだ…
+
+良い記事を発見したので事なきを得た。  
+[Spacemacsでクリップボードにコピー&ペースト - Qiita](https://qiita.com/taumu/items/f03a1b0c579c4934bd31)
+
 ## Links
 
 - [syl20bnr/spacemacs - GitHub](https://github.com/syl20bnr/spacemacs)
@@ -128,3 +137,4 @@ $ emacs -nw
 - [Spacemacsとやらをインストールしてみる - Qiita](https://qiita.com/clutter/items/1f60bdabb31dec9afe5d)
 - [Spacemacsでstableのpackageを使うように指定する - makinoshi](https://scrapbox.io/makinoshi/Spacemacs%E3%81%A7stable%E3%81%AEpackage%E3%82%92%E4%BD%BF%E3%81%86%E3%82%88%E3%81%86%E3%81%AB%E6%8C%87%E5%AE%9A%E3%81%99%E3%82%8B)
 - [spacemacs が起動しなくなった場合の回避策 - でらうま倶楽部](http://blog.livedoor.jp/tek_nishi/archives/9715298.html)
+- [Spacemacsでクリップボードにコピー&ペースト - Qiita](https://qiita.com/taumu/items/f03a1b0c579c4934bd31)
